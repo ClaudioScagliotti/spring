@@ -1,3 +1,3 @@
 # spring
 Repository for spring project
-The project in this repository contains several features of the Spring framework, most notably Spring Core. Among the topics covered is Spring Context, bean management and Aspect Oriented Programming
+The Spring project contains several features of the Spring framework, most notably Spring Core. The topics covered include Spring Context, bean management, and Aspect-Oriented Programming
